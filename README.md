@@ -4,12 +4,12 @@ I'm Marco Lind — a performance-minded C/C++ programmer with a deep appreciatio
 
 ### 🚀 Projects I'm Proud Of
 
-- **💧 HydroGuard** – A robust water safety and flow control system. It was a challenge in both design and implementation, and I’m proud of how it balances reliability with low resource usage.
+- **💧 HydroGuard** – An award-winning robust water level safety system done as a school group project. It was a challenge in both design and implementation, and I’m proud of how it balances reliability with low resource usage.
 - **💡 DimmerLib** – A lightweight arduino library for dimming lights using pure C++. Compact, fast, and portable — it reflects my philosophy of minimalism and performance-first development.
 
 ### 🛠️ What I Work With
 
-- **Languages**: C, C++, Bash, batch scripting
+- **Languages**: C, C++, some Python, Bash, batch scripting
 - **Tools**: GCC, GDB, VS Code, Git
 - **Platforms**: Linux & Windows, embedded systems (ESP32-C3, Arduino R4)
 - **Philosophy**: Avoid unnecessary abstractions. Write code that makes sense to both the machine *and* the person maintaining it.
@@ -23,7 +23,7 @@ I'm Marco Lind — a performance-minded C/C++ programmer with a deep appreciatio
 
 ### 💬 Ask Me About
 
-- Structuring C projects for performance
+- Structuring C (or C++) projects for performance
 - Simulating OOP in C without the bloat
 - Debugging weird pointer bugs
 - Why `strncpy()` might not be your friend 😉
@@ -36,7 +36,7 @@ I'm Marco Lind — a performance-minded C/C++ programmer with a deep appreciatio
 
 ### 📫 Reach Me
 
-Feel free to message me here on GitHub or on marco.lind@chasacademy.se.
+Feel free to message me here on GitHub or at marco.lind@chasacademy.se.
 
 ---
 
