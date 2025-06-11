@@ -5,7 +5,7 @@ I'm Marco Lind — a performance-minded C/C++ programmer with a deep appreciatio
 ### 🚀 Projects I'm Proud Of
 
 - **💧 HydroGuard** – An award-winning robust water level safety system done as a school group project. It was a challenge in both design and implementation, and I’m proud of how it balances reliability with low resource usage.
-- **💡 DimmerLib** – A lightweight arduino library for dimming lights using pure C++. Compact, fast, and portable — it reflects my philosophy of minimalism and performance-first development.
+- **💡 DimmerLib** – A lightweight arduino library for dimming lights using non-bloat C++. Compact, fast, and portable — it reflects my philosophy of minimalism and performance-first development.
 
 ### 🛠️ What I Work With
 
